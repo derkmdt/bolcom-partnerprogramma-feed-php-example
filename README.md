@@ -1,4 +1,7 @@
 # bolcom-partnerprogramma-feed-php-example
+
+[![Build Status](https://travis-ci.org/derkmdt/bolcom-partnerprogramma-feed-php-example.svg?branch=master)](https://travis-ci.org/derkmdt/bolcom-partnerprogramma-feed-php-example)
+
 Example PHP code for interpreting the Product Feed.
 
 This example shows how the Product Feed can be read with PHP.
