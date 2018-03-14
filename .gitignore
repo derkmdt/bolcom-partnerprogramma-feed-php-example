@@ -5,6 +5,7 @@
 /develop
 /target
 dependencies.txt
+composer.lock
 
 # Development runs
 
