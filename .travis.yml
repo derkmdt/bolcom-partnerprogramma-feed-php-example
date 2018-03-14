@@ -1,0 +1,13 @@
+language: php
+
+php:
+  - 5.1
+  - 7.2
+
+notifications:
+  email:
+    - derkmdt@hotmail.com
+
+before_script:
+    - wget http://getcomposer.org/composer.phar
+    - php composer.phar install
