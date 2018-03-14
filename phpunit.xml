@@ -10,7 +10,7 @@
          syntaxCheck="false">
     <testsuites>
         <testsuite name="Bol.com Product Feed PHP Tests">
-            <directory>./tests/</directory>
+            <directory>./Tests/</directory>
         </testsuite>
     </testsuites>
 </phpunit>
